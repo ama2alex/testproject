@@ -4,4 +4,4 @@ for (root, directories, files) in os.walk("C:\\Users"):
     for filename in directories:
         print(filename)
         
-        Si am mai modificat in codasasdasd
+        Si am mai modificat in codasasdasdasd
